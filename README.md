@@ -6,6 +6,7 @@ Fast API Basic project
 First create virtual env 
  
 Conda create fastapi_env 
+
  
 
 Install library 
