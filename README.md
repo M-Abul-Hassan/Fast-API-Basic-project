@@ -11,6 +11,7 @@ Conda create fastapi_env
 
 Install library 
 
+
 Pip install fastapi 
 
 
